@@ -3,7 +3,7 @@
 https://pizza-menux.netlify.app/
 
 <div>
-  A challenge from my react training. Online pizza menu listing and ordering application.
+  A challenge in React training: An online pizza menu listing and ordering application.
 </div>
 
 ## 👍 My Challenges:
