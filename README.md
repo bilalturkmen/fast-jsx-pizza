@@ -1,8 +1,6 @@
 <h1>Pizza Menu List</h1>
 
-## Demo
-
-https://product-list-seven.vercel.app/
+https://pizza-menux.netlify.app/
 
 <div>
   A challenge from my react training. Online pizza menu listing and ordering application.
