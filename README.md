@@ -1,9 +1,9 @@
-<h1>Pizza Menu List</h1>
+<h1>Pizza Menu</h1>
 
 https://pizza-menux.netlify.app/
 
 <div>
-  A course project for React JS training: Online pizza menu listing and ordering application.
+  A project from a React JS training: Online pizza menu and ordering app.
 </div>
 
 ## 👍 My Challenges:

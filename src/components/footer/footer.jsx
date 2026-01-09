@@ -3,7 +3,7 @@ import Attribution from "./attribution";
 
 const Footer = () => {
   const hour = new Date().getHours();
-  const openHour = 11;
+  const openHour = 10;
   const closeHour = 24;
   const isOpen = hour >= openHour && hour < closeHour;
 
