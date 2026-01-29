@@ -14,7 +14,7 @@ https://pizza-menux.netlify.app/
 - Pop-up modal window implemented.
 - And efforts were made to provide a good user experience 🙂
 
-![](./public/screenshott.png)
+![](./public/screeenshot.png)
 
 ## 🎉 Build With:
 
