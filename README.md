@@ -1,6 +1,6 @@
 <h1>Fast JSX Pizza</h1>
 
-https://fastjsxpizza.netlify.app/
+https://fast-jsx-pizza.netlify.app/
 
 <div>
   Training project about React JS components and props.
