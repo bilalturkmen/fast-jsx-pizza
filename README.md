@@ -3,7 +3,7 @@
 https://pizza-menux.netlify.app/
 
 <div>
-  A React JS training project about components, props, jsx.
+  A React JS training project about components, props and jsx.
 </div>
 
 ## 👍 My Challenges:
