@@ -3,7 +3,7 @@
 https://fastjsxpizza.netlify.app/
 
 <div>
-  A React JS training project about components, props and jsx.
+  Training project about React JS components and props.
 </div>
 
 ## 👍 My Challenges:
