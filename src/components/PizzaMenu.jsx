@@ -4,7 +4,9 @@ function PizzaItem({ pizza, quantity, onAdd, onRemove }) {
   const { name, ingredients, price, soldOut, photoName } = pizza;
 
   return (
-    <li className={`pizza-card ${soldOut ? "sold-out" : ""}`}>
+    <li
+      className={`pizza-card ${soldOut ? "sold-out md:order-0 order-1" : ""}`}
+    >
       <div className="relative shrink-0 overflow-hidden rounded-xl">
         <img
           src={photoName}
